@@ -1,0 +1,11 @@
+C:\Users\Wescley Torres\Desktop\C#\ContaBancaria\bin\Debug\ContaBancaria.exe.config
+C:\Users\Wescley Torres\Desktop\C#\ContaBancaria\bin\Debug\ContaBancaria.exe
+C:\Users\Wescley Torres\Desktop\C#\ContaBancaria\bin\Debug\ContaBancaria.pdb
+C:\Users\Wescley Torres\Desktop\C#\ContaBancaria\obj\Debug\ContaBancaria.csprojAssemblyReference.cache
+C:\Users\Wescley Torres\Desktop\C#\ContaBancaria\obj\Debug\ContaBancaria.Properties.Resources.resources
+C:\Users\Wescley Torres\Desktop\C#\ContaBancaria\obj\Debug\ContaBancaria.csproj.GenerateResource.cache
+C:\Users\Wescley Torres\Desktop\C#\ContaBancaria\obj\Debug\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Wescley Torres\Desktop\C#\ContaBancaria\obj\Debug\ContaBancaria.exe
+C:\Users\Wescley Torres\Desktop\C#\ContaBancaria\obj\Debug\ContaBancaria.pdb
+C:\Users\Wescley Torres\Desktop\C#\ContaBancaria\obj\Debug\ContaBancaria.F_extrato.resources
+C:\Users\Wescley Torres\Desktop\C#\ContaBancaria\obj\Debug\ContaBancaria.F_principal.resources
